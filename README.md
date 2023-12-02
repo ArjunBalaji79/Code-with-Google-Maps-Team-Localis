@@ -4,6 +4,10 @@
  
 ##### Team Leader Email : 22f1000372@ds.study.iitm.ac.in or arjun.balaji.02@gmail.com (Team of 1)
 
+[Video](https://www.youtube.com/watch?v=jw8aptkfuBc)
+
+[Presentation](Team_Localis.pdf)
+
 ## A Brief of the Prototype:
 EstateEval is a web application that harnesses Google Maps APIs to help users assess potential properties. It calculates a Proximity Score by measuring the distances to hospitals and transportation hubs and a Quality Score based on air quality and various environmental factors. Users select locations on a Google Map, receiving immediate scores, aiding in informed real estate decisions. This application seamlessly integrates data and maps for a user-friendly and data-driven property evaluation tool.
 
