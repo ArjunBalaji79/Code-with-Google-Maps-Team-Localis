@@ -2,7 +2,7 @@
 
 ##### Problem Statement: EstateEval - A web application which evaluates and provides normalised Proximity and Quality scores of a real estate property based on proximity to services/retail and quality of the surrounding area based on environmental factors.
  
-##### Team Leader Email : 22f1000372@ds.study.iitm.ac.in or arjun.balaji.02@gmail.com
+##### Team Leader Email : 22f1000372@ds.study.iitm.ac.in or arjun.balaji.02@gmail.com (Team of 1)
 
 ## A Brief of the Prototype:
 EstateEval is a web application that harnesses Google Maps APIs to help users assess potential properties. It calculates a Proximity Score by measuring the distances to hospitals and transportation hubs and a Quality Score based on air quality and various environmental factors. Users select locations on a Google Map, receiving immediate scores, aiding in informed real estate decisions. This application seamlessly integrates data and maps for a user-friendly and data-driven property evaluation tool.
@@ -13,7 +13,7 @@ EstateEval is a web application that harnesses Google Maps APIs to help users as
 
 ## Step-by-Step Code Execution Instructions:
 1) Download the folder and open it using a Code Editor such as VSCode.
-2) Edit script.js:line 10 and estateeval.html:line 33 and replace YOUR_API_KEY_HERE with your google maps API key.
+2) Edit script.js:line 10 and estateeval.html:line 33 and replace YOUR_API_KEY_HERE with your Google Maps API key.
 3) Open the landing page file using Live Server to see the Landing Page and click on Get Started to use the Estate Evaluator Application.
 4) Alternatively, you can directly open the EstateEval file using Live Server.
 5) To use the application, Enter the address of the property you would like to evaluate in the box.
